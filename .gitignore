@@ -1,0 +1,35 @@
+# Dependências
+node_modules
+
+# Build
+dist/
+build/
+out/
+
+# Configuração do TypeScript
+tsconfig.tsbuildinfo
+
+# Ambiente
+.env
+
+# Logs
+*.log
+logs/
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Cobertura de Testes
+coverage/
+
+# Cache
+.npm
+.yarn
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# Jest Cache
+.jest_cache/
