@@ -6,4 +6,12 @@ describe('User Entity', () => {
         expect(user.getId()).toBe("1");
         expect(user.getName()).toBe("Daniel Nascimento");
     })
+
+    it("Deve retornar um erro se o nome for vazio", () => {
+        expect(() => new User("1", "")).toThrow("O nome é obrigatório.")
+    })
+
+    it("Deve retornar um erro caso o id esteja em branco.", () => {
+        expect(() => new User("", "Daniel Nascimento")).toThrow("O Id é obrigatório")
+    })
 })
