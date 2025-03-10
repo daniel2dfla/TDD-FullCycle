@@ -1,6 +1,6 @@
 # TDD na Prática - Full Cycle
 
-Este repositório contém os estudos e implementações realizados durante o curso **"TDD na Prática"** da [Full Cycle](https://fullcycle.com.br/), aplicando as melhores práticas de **Test-Driven Development (TDD)** no desenvolvimento de software.
+Este repositório contém os estudos e implementações realizados durante o curso **"TDD na Prática"** da [Full Cycle](https://fullcycle.com.br/), aplicando as melhores práticas de **Test-Driven Development (TDD)** no desenvolvimento de software.(Curso em progresso - 10/03/2025)
 
 ## 📌 Sobre o Curso
 
